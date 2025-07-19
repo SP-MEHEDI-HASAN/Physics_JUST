@@ -54,3 +54,16 @@ int main()
     }
     return 0;
 }
+
+/**input :
+Test case : 3
+Give the interval : 1.73 2
+Enter the tolerence : 0.0001
+The root for the interval 1.73 and 2 is :1.73204
+Give the interval : 1 2
+Enter the tolerence : 0.0001
+The root for the interval 1 and 2 is :1.73206
+Give the interval : 1 1.5
+Enter the tolerence : 0.0001
+The interval is invalid
+**/
